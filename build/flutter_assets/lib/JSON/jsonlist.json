@@ -1,0 +1,8 @@
+{
+    "groupOptions": ["General", "Shirt", "Pant", "T-shirt","Top"],
+    "unitGroupOptions": ["PCS", "NOS", "MTA"],
+    "selectedGSTOptions": ["GST0%", "GST5%", "GST12%", "GST18%", "GST28%"],
+    "selectedRequireOptions": ["Software","Website"],
+    "selectedMeetingOptions": ["Online","Offline"]
+  }
+  
