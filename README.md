@@ -1,4 +1,4 @@
-# OnlineStore Application
+# OnlineStore Application (Flutter/API/MySql)
 
 ## Overview
 The OnlineStore application is developed by Amar Singh Sisodiya for Maverick IT Industry Pvt Ltd. This application allows administrators to manage, update, and add products to the online store. Users can view the products available in the store.
